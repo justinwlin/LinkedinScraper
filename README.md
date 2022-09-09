@@ -1,3 +1,9 @@
+# Note made a variation of this project:
+https://github.com/justinwlin/Linkedin-Email-Scrapper
+
+This project uses Linkedin directly, but if used TOO MUCH, like 1K results, it gets flagged as a bot and searching is disabled for a month.
+So I created the above project that uses Google to scrape instead.
+
 # Point of this Project?
 The point is to use the results with a service like: Rocketreach.co and their extension https://rocketreach.co/ and their extension https://chrome.google.com/webstore/detail/rocketreach-chrome-extens/oiecklaabeielolbliiddlbokpfnmhba?hl=en-US
 
